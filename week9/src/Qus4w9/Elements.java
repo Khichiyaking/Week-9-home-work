@@ -1,8 +1,6 @@
 package Qus4w9;
-
 import java.util.ArrayList;
 import java.util.Iterator;
-
 //Write a Java program to iterate through all elements in an array list using
 //Iterator.
 public class Elements {
